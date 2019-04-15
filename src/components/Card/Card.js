@@ -5,7 +5,7 @@ export class Card extends Component {
     render() {
         return (
             <div className="Container">
-                
+                <h1>Grafica</h1>
             </div>
         );
     }

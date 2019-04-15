@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {Card} from './components/Card/Card';
-import {List} from './components/List/List';
+import { List } from './components/List/List';
 
 class App extends Component {
   render() {
