@@ -8,10 +8,6 @@ export class List extends Component {
             <div className="Container">
                 <ul>
                     <Card />
-                    <Card />
-                    <Card />
-                    <Card />
-                    <Card />
                 </ul>
             </div>
         );
