@@ -7,3 +7,9 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
+
+  .ListContainer ul {
+    margin: 0 auto;
+    padding: 0 10vw;
+    list-style: none;
+  }

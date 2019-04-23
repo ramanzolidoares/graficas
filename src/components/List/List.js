@@ -5,8 +5,10 @@ import { Card } from '../Card/Card';
 export class List extends Component {
     render() {
         return (
-            <div className="Container">
+            <div className="ListContainer">
                 <ul>
+                    <Card />
+                    <Card />
                     <Card />
                 </ul>
             </div>
